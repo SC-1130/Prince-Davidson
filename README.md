@@ -4,7 +4,7 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Prince-Davidson/osticket-lifecycle)
+  - https://github.com/SC-1130/Prince-Davidson
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Prince-Davidson/azure-network-protocols)
 
