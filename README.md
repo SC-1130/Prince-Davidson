@@ -1,7 +1,7 @@
 <h1>Hi, I'm Prince, an <a href="https://linkedin.com/in/Josh">IT Professional</a></h1>
 
 <h2> Information Technology Projects:</h2>
-
+ 
   - [osTicket: Ticket Lifecycle Examples](https://github.com/https://github.com/SC-1130/Prince-Davidson/tree/main/ticket-lifecycle)
 - <b>Microsoft Azure</b>
 
